@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: 'Open Sans', sans-serif;
+}
+h1 {
+    font-weight: bold;
+}
+.container {
+    text-align: center;
+}
+span {
+    padding-top: 6px;
+}
+.done {
+    text-decoration: line-through;
+}
+.urgent {
+    color: red;
+}
